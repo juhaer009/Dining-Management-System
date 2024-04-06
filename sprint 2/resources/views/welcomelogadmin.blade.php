@@ -77,7 +77,7 @@
     </div>
 
     <div id="bottomsec">
-        <p id="copyright">Copyright 2023 &copy; CSE471-Group02</p>
+        <p id="copyright">Copyright 2024 &copy; CSE470-Group08</p>
     </div>
 
 
